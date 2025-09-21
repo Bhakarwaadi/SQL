@@ -1,0 +1,1 @@
+This project presents a comprehensive data analysis of Target's e-commerce operations in Brazil, focusing on uncovering insights from customer behavior, order trends, payment patterns, and delivery performance. The goal was to generate actionable recommendations to improve business outcomes.
